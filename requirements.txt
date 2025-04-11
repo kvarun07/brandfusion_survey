@@ -1,0 +1,7 @@
+streamlit
+streamlit-survey
+pandas
+st-gsheets-connection
+gspread-dataframe
+oauth2client
+openpyxl
